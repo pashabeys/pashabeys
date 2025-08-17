@@ -26,14 +26,16 @@
 
 ---
 
-## 🌐 Dillerim ve Seviyelerim
+## 💻 Yazılım Dilleri ve Seviyelerim
 
-| Dil         | Seviye | Progress |
-|-------------|--------|-----------|
-| 🇹🇷 Türkçe   | Ana Dil | ██████████ 100% |
-| 🇬🇧 İngilizce | İleri   | ████████░░ 80% |
-| 🇷🇺 Rusça    | Orta    | ██████░░░░ 60% |
-| 🇮🇹 İtalyanca| Başlangıç | ███░░░░░░░ 30% |
+| Dil / Teknoloji | Seviye | Progress |
+|-----------------|--------|-----------|
+| ![Lua](https://skillicons.dev/icons?i=lua) **Lua** | Uzman | ██████████ 95% |
+| ![PHP](https://skillicons.dev/icons?i=php) **PHP** | İleri | ████████░░ 80% |
+| ![C#](https://skillicons.dev/icons?i=cs) **C#** | Orta | ██████░░░░ 65% |
+| ![Python](https://skillicons.dev/icons?i=python) **Python** | Orta | ██████░░░░ 60% |
+| ![JS](https://skillicons.dev/icons?i=js) **JavaScript** | Orta | ██████░░░░ 55% |
+| ![ASP.NET](https://skillicons.dev/icons?i=dotnet) **ASP.NET** | Başlangıç/Orta | ████░░░░░░ 40% |
 
 ---
 
