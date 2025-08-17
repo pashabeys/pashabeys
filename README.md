@@ -40,8 +40,8 @@
 ## 🔥 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pashanizm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090ff&icon_color=33aaff" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pashanizm&theme=tokyonight&hide_border=true&background=0d1117&stroke=33aaff&ring=0090ff&fire=33aaff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pashabeys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090ff&icon_color=33aaff" height="265" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pashabeys&theme=tokyonight&hide_border=true&background=0d1117&stroke=33aaff&ring=0090ff&fire=33aaff" height="265" />
 </p>
 
 ---
