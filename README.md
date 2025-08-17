@@ -1,6 +1,6 @@
 <!-- Üstte gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=180&section=header&text=HelloWorld&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=180&section=header&text=pashabey.dev&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- Merhaba başlığı -->
