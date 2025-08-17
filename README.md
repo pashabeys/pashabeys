@@ -1,9 +1,8 @@
 <!-- Üstte gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=180&section=header&text=pashabey.dev&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=180&section=header&text=PashaBey&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- Merhaba başlığı -->
 <h1 align="center">👋 Merhaba, ben <span style="color:#0090ff">PashaBey</span></h1>
 
 <p align="center">
@@ -27,11 +26,22 @@
 
 ---
 
+## 🌐 Dillerim ve Seviyelerim
+
+| Dil         | Seviye | Progress |
+|-------------|--------|-----------|
+| 🇹🇷 Türkçe   | Ana Dil | ██████████ 100% |
+| 🇬🇧 İngilizce | İleri   | ████████░░ 80% |
+| 🇷🇺 Rusça    | Orta    | ██████░░░░ 60% |
+| 🇮🇹 İtalyanca| Başlangıç | ███░░░░░░░ 30% |
+
+---
+
 ## 🔥 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashabeys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090ff&icon_color=33aaff" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pashabeys&theme=tokyonight&hide_border=true&background=0d1117&stroke=33aaff&ring=0090ff&fire=33aaff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pashanizm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090ff&icon_color=33aaff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pashanizm&theme=tokyonight&hide_border=true&background=0d1117&stroke=33aaff&ring=0090ff&fire=33aaff" height="165" />
 </p>
 
 ---
