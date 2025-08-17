@@ -24,55 +24,16 @@
   <img src="https://skillicons.dev/icons?i=php,cs,python,lua,js,dotnet,mysql,html,css,git" />
 </p>
 
----
-
 ## 💻 Yazılım Dilleri ve Seviyelerim
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=lua" width="32"/></td>
-    <td><b>Lua</b></td>
-    <td>
-      <img src="https://progress-bar.dev/95/?scale=100&title=&width=300&color=0090ff&suffix=%" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=php" width="32"/></td>
-    <td><b>PHP</b></td>
-    <td>
-      <img src="https://progress-bar.dev/80/?scale=100&title=&width=300&color=0090ff&suffix=%" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=cs" width="32"/></td>
-    <td><b>C#</b></td>
-    <td>
-      <img src="https://progress-bar.dev/65/?scale=100&title=&width=300&color=0090ff&suffix=%" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="32"/></td>
-    <td><b>Python</b></td>
-    <td>
-      <img src="https://progress-bar.dev/60/?scale=100&title=&width=300&color=0090ff&suffix=%" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=js" width="32"/></td>
-    <td><b>JavaScript</b></td>
-    <td>
-      <img src="https://progress-bar.dev/55/?scale=100&title=&width=300&color=0090ff&suffix=%" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=dotnet" width="32"/></td>
-    <td><b>ASP.NET</b></td>
-    <td>
-      <img src="https://progress-bar.dev/40/?scale=100&title=&width=300&color=0090ff&suffix=%" />
-    </td>
-  </tr>
-</table>
-
+| Dil / Teknoloji | Seviye | Progress |
+|-----------------|--------|-----------|
+| ![Lua](https://skillicons.dev/icons?i=lua) **Lua** | Uzman | ██████████ 95% |
+| ![PHP](https://skillicons.dev/icons?i=php) **PHP** | İleri | ████████░░ 80% |
+| ![C#](https://skillicons.dev/icons?i=cs) **C#** | Orta | ██████░░░░ 65% |
+| ![Python](https://skillicons.dev/icons?i=python) **Python** | Orta | ██████░░░░ 60% |
+| ![JS](https://skillicons.dev/icons?i=js) **JavaScript** | Orta | ██████░░░░ 55% |
+| ![ASP.NET](https://skillicons.dev/icons?i=dotnet) **ASP.NET** | Başlangıç/Orta | ████░░░░░░ 40% |
 
 ---
 
