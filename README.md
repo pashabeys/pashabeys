@@ -1,85 +1,59 @@
+<!-- Üstte gradient banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/master/assets/header.svg" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=180&section=header&text=PashaBey&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h1 align="center">Merhaba, ben Mehmet (PashaBey) 👋</h1>
+<!-- Merhaba başlığı -->
+<h1 align="center">👋 Merhaba, ben <span style="color:#0090ff">PashaBey</span></h1>
 
 <p align="center">
-  <strong>Web ve Oyun Geliştiricisi</strong> | Backend & API Uzmanı  
-  <br>
-  <a href="mailto:contact@pashabey.dev">contact@pashabey.dev</a> | Adana, Türkiye  
-  <br>
-  <a href="https://discord.pashamta.com.tr">Discord</a> • <a href="https://github.com/USER">GitHub</a> • <a href="https://www.instagram.com/">Instagram</a>
+  <em>Web & Oyun Geliştiricisi • Backend Uzmanı • Güvenlik Çözümleri</em>
 </p>
 
 ---
 
-## Hakkımda  
-Oyun ve web geliştirme alanında 5 yılı aşkın deneyim sahibiyim. Backend sistemler ve API geliştirme konularına odaklanıyor, oyun ortamlarıyla web teknolojilerini birleştirerek güvenli, ölçeklenebilir ve kullanıcı dostu çözümler üretiyorum.  
-Kullandığım teknolojiler: **PHP, C#, Python, JavaScript, Lua, ASP.NET**
+## 🚀 Hakkımda
+🎮 Oyun geliştirme & 🌐 web teknolojilerini birleştirerek, güvenli ve ölçeklenebilir çözümler üretiyorum.  
+🔐 Anti-cheat sistemleri, API entegrasyonları ve modern web panelleri üzerine çalışıyorum.  
+🛠️ Ana teknolojilerim: **PHP, C#, Python, Lua, ASP.NET, JavaScript**
 
 ---
 
-##  Ne Yapıyorum?
+## 🧩 Yeteneklerim
 
-| Alan             | Açıklama |
-|------------------|----------|
-| **Oyun Geliştirme** | Performans, ölçeklenebilirlik ve entegrasyon odaklı özel oyun sistemleri tasarlarım (hem sunucu hem istemci tarafında). |
-| **Web Geliştirme**  | Oyun sunucularıyla web platformlarını API entegrasyonuyla birleştirir, güvenli ve ölçeklenebilir backend sistemleri geliştiririm. |
-
----
-
-##  Eğitim  
-- **Çukurova Üniversitesi** — Bilgisayar Programlama (2024 – …)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,python,lua,js,dotnet,mysql,html,css,git" />
+</p>
 
 ---
 
-##  Deneyim  
-- **Multi Theft Auto (MTA)** — 2020 – Hâlen  
-  Sunucu tarafı scripting ve oyun modları.  
-- **GTA IV Multiplayer Development** — 2022 – 2023  
-  GTA IV için çok oyunculu sistemlerin geliştirilmesine katkı.  
-- **Bannerlord** — 2024 – Hâlen  
-  Northland Roleplay ve Bannerworld Online projelerinde sunucu tarafı geliştirmeler ve “Bannerfield” adlı Battlefield tarzı mod.  
-- **Web Geliştirici** — 2021 – Hâlen  
-  Web platformları ve uygulamalar için backend geliştirme ve oyun entegrasyonları.  
-- **Freelance Geliştirici** — 2020 – Hâlen  
-  Web ve oyun projesi bazlı özel çözümler üretme, backend sistemler ve scripting.
+## 🔥 İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pashanizm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090ff&icon_color=33aaff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pashanizm&theme=tokyonight&hide_border=true&background=0d1117&stroke=33aaff&ring=0090ff&fire=33aaff" height="165" />
+</p>
 
 ---
 
-##  Teknik Yetenekler
-
-| Beceri                      | Seviye |
-|-----------------------------|--------|
-| Backend Geliştirme          | 85 %   |
-| Web Geliştirme              | 80 %   |
-| Oyun Geliştirme             | 75 %   |
-| Lua                         | 90 %   |
-| PHP                         | 70 %   |
-| C#                          | 65 %   |
-| Python                      | 60 %   |
+## 📂 Öne Çıkan Projelerim
+- 🛡️ **PashaGuard** — MTA için gelişmiş Anti-Cheat çözümü  
+- ⚔️ **Bannerfield** — Bannerlord + Battlefield harmanlanan mod  
+- 🏰 **Northland Roleplay** — Ortaçağ temalı rol yapma sunucusu  
+- 🖥️ **ASP.NET WebPanel** — Sunucu yönetimi için modern panel  
 
 ---
 
-##  Öne Çıkan Projeler  
-- **Northland Roleplay** — Kendi sunucu projem; oyun modu geliştirme.  
-- **Bannerfield** — “Battlefield tarzı” Bannerlord modu.  
-- **PashaGuard Lua Anticheat** — Güvenlik (game dev).  
-- **2FA Web Entegrasyonu** — Web platformları için iki faktörlü kimlik doğrulama.  
-- **Bannerlord ASP.NET WebPanel** — Yönetim paneli geliştirme.  
-- **PashaMTA Web Sitesi** — Web geliştirme.  
-- **Discord, Web & Oyun Entegrasyonu** — Platformlar arası entegrasyon projeleri.  
-(Bunların bağlantılarını GitHub README içinde doğrudan düzenleyebilirsin.)
+## 🌍 Portfolyo
+<p align="center">
+  <a href="https://www.pashabey.dev">
+    <img src="https://img.shields.io/badge/🌐 Ziyaret%20Et-Portfolyo-0090ff?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-##  Bağlantılar  
-[Portfolyo](https://www.pashabey.dev) • [Discord](https://discord.pashamta.com.tr) • [NexusMods](https://www.nexusmods.com) • Bannerworld Online
-
----
-
-<footer align="center">
-  <br>
-  <em>Her proje, teknik mükemmellik kadar estetiği de yansıtmalı 🛠️✨</em>
-</footer>
+<!-- Alt dalgalı efekt -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=100&section=footer" />
+</p>
