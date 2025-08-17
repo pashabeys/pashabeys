@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0090ff&height=180&section=header&text=www.pashabey.dev&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pashabeys&color=0090ff&style=for-the-badge" alt="profile views" />
-</p>
-
-
 <h1 align="center">👋 Merhaba, ben <span style="color:#0090ff">PashaBey</span></h1>
 
 <p align="center">
@@ -64,6 +59,9 @@
   <a href="https://www.pashabey.dev">
     <img src="https://img.shields.io/badge/🌐 Ziyaret%20Et-Portfolyo-0090ff?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pashabeys&color=0090ff&style=for-the-badge" alt="profile views" />
+</p>
 </p>
 
 ---
